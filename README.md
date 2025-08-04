@@ -9,4 +9,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/manusri06/august_2025/tree/master/0021-merge-two-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/manusri06/august_2025/tree/master/0402-remove-k-digits) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/manusri06/august_2025/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/manusri06/august_2025/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/manusri06/august_2025/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
