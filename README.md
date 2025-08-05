@@ -37,4 +37,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/manusri06/august_2025/tree/master/0258-add-digits) |
+## Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/manusri06/august_2025/tree/master/0078-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/manusri06/august_2025/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/manusri06/august_2025/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
