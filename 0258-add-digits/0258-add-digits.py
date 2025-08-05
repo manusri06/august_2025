@@ -1,9 +1,6 @@
 class Solution(object):
     def addDigits(self, num):
-        """
-        :type num: int
-        :rtype: int
-        """
+    
         while num >= 10:
             temp = 0
             while num > 0:
