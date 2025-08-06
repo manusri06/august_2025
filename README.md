@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/manusri06/august_2025/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/manusri06/august_2025/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/manusri06/august_2025/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/manusri06/august_2025/tree/master/0258-add-digits) |
 ## Simulation
 |  |
@@ -49,4 +51,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/manusri06/august_2025/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/manusri06/august_2025/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
