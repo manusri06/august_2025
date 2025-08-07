@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/manusri06/august_2025/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/manusri06/august_2025/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/manusri06/august_2025/tree/master/0189-rotate-array) |
 ## Backtracking
@@ -57,5 +58,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/manusri06/august_2025/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/manusri06/august_2025/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
