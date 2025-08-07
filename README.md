@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/manusri06/august_2025/tree/master/0258-add-digits) |
+| [0898-transpose-matrix](https://github.com/manusri06/august_2025/tree/master/0898-transpose-matrix) |
 ## Number Theory
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/manusri06/august_2025/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/manusri06/august_2025/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/manusri06/august_2025/tree/master/0238-product-of-array-except-self) |
+| [0898-transpose-matrix](https://github.com/manusri06/august_2025/tree/master/0898-transpose-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/manusri06/august_2025/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/manusri06/august_2025/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
