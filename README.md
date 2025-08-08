@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manusri06/august_2025/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/manusri06/august_2025/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/manusri06/august_2025/tree/master/0402-remove-k-digits) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/manusri06/august_2025/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Stack
@@ -87,12 +88,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/manusri06/august_2025/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/manusri06/august_2025/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/manusri06/august_2025/tree/master/0242-valid-anagram) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/manusri06/august_2025/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manusri06/august_2025/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/manusri06/august_2025/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/manusri06/august_2025/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
