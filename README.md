@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manusri06/august_2025/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/manusri06/august_2025/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/manusri06/august_2025/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/manusri06/august_2025/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/manusri06/august_2025/tree/master/0151-reverse-words-in-a-string) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/manusri06/august_2025/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/manusri06/august_2025/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/manusri06/august_2025/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/manusri06/august_2025/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/manusri06/august_2025/tree/master/0118-pascals-triangle) |
 ## Divide and Conquer
