@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/manusri06/august_2025/tree/master/0014-longest-common-prefix) |
 | [0402-remove-k-digits](https://github.com/manusri06/august_2025/tree/master/0402-remove-k-digits) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/manusri06/august_2025/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Stack
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/manusri06/august_2025/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manusri06/august_2025/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/manusri06/august_2025/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/manusri06/august_2025/tree/master/0053-maximum-subarray) |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/manusri06/august_2025/tree/master/0048-rotate-image) |
 | [0898-transpose-matrix](https://github.com/manusri06/august_2025/tree/master/0898-transpose-matrix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/manusri06/august_2025/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
