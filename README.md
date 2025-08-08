@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/manusri06/august_2025/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/manusri06/august_2025/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/manusri06/august_2025/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/manusri06/august_2025/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/manusri06/august_2025/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/manusri06/august_2025/tree/master/0258-add-digits) |
 ## Simulation
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/manusri06/august_2025/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/manusri06/august_2025/tree/master/0258-add-digits) |
 ## Array
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/manusri06/august_2025/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/manusri06/august_2025/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/manusri06/august_2025/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/manusri06/august_2025/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/manusri06/august_2025/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/manusri06/august_2025/tree/master/0238-product-of-array-except-self) |
 | [0898-transpose-matrix](https://github.com/manusri06/august_2025/tree/master/0898-transpose-matrix) |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manusri06/august_2025/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/manusri06/august_2025/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
