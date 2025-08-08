@@ -19,15 +19,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/manusri06/august_2025/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/manusri06/august_2025/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/manusri06/august_2025/tree/master/0402-remove-k-digits) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/manusri06/august_2025/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/manusri06/august_2025/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/manusri06/august_2025/tree/master/0402-remove-k-digits) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/manusri06/august_2025/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/manusri06/august_2025/tree/master/0402-remove-k-digits) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/manusri06/august_2025/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manusri06/august_2025/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/manusri06/august_2025/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/manusri06/august_2025/tree/master/0189-rotate-array) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/manusri06/august_2025/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Dynamic Programming
 |  |
 | ------- |
