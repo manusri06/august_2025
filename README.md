@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manusri06/august_2025/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/manusri06/august_2025/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/manusri06/august_2025/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/manusri06/august_2025/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/manusri06/august_2025/tree/master/0205-isomorphic-strings) |
