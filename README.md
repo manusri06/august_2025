@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/manusri06/august_2025/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/manusri06/august_2025/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/manusri06/august_2025/tree/master/0258-add-digits) |
+| [0900-reordered-power-of-2](https://github.com/manusri06/august_2025/tree/master/0900-reordered-power-of-2) |
 ## Simulation
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/manusri06/august_2025/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/manusri06/august_2025/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/manusri06/august_2025/tree/master/0242-valid-anagram) |
+| [0900-reordered-power-of-2](https://github.com/manusri06/august_2025/tree/master/0900-reordered-power-of-2) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/manusri06/august_2025/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Sorting
 |  |
@@ -116,11 +118,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/manusri06/august_2025/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/manusri06/august_2025/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/manusri06/august_2025/tree/master/0242-valid-anagram) |
+| [0900-reordered-power-of-2](https://github.com/manusri06/august_2025/tree/master/0900-reordered-power-of-2) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manusri06/august_2025/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/manusri06/august_2025/tree/master/0229-majority-element-ii) |
+| [0900-reordered-power-of-2](https://github.com/manusri06/august_2025/tree/master/0900-reordered-power-of-2) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -138,4 +142,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/manusri06/august_2025/tree/master/0204-count-primes) |
+| [0900-reordered-power-of-2](https://github.com/manusri06/august_2025/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
