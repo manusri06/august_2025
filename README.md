@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/manusri06/august_2025/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/manusri06/august_2025/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manusri06/august_2025/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/manusri06/august_2025/tree/master/0039-combination-sum) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/manusri06/august_2025/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/manusri06/august_2025/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/manusri06/august_2025/tree/master/0169-majority-element) |
 ## Hash Table
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/manusri06/august_2025/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/manusri06/august_2025/tree/master/0900-reordered-power-of-2) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/manusri06/august_2025/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
