@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/manusri06/august_2025/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/manusri06/august_2025/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/manusri06/august_2025/tree/master/0338-counting-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/manusri06/august_2025/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/manusri06/august_2025/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/manusri06/august_2025/tree/master/0118-pascals-triangle) |
+| [0338-counting-bits](https://github.com/manusri06/august_2025/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
