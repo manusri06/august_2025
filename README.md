@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/manusri06/august_2025/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/manusri06/august_2025/tree/master/0238-product-of-array-except-self) |
 | [0898-transpose-matrix](https://github.com/manusri06/august_2025/tree/master/0898-transpose-matrix) |
+| [2529-range-product-queries-of-powers](https://github.com/manusri06/august_2025/tree/master/2529-range-product-queries-of-powers) |
 ## Backtracking
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/manusri06/august_2025/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/manusri06/august_2025/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/manusri06/august_2025/tree/master/0338-counting-bits) |
+| [2529-range-product-queries-of-powers](https://github.com/manusri06/august_2025/tree/master/2529-range-product-queries-of-powers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/manusri06/august_2025/tree/master/0238-product-of-array-except-self) |
+| [2529-range-product-queries-of-powers](https://github.com/manusri06/august_2025/tree/master/2529-range-product-queries-of-powers) |
 ## Matrix
 |  |
 | ------- |
