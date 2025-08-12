@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/manusri06/august_2025/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/manusri06/august_2025/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/manusri06/august_2025/tree/master/0338-counting-bits) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/manusri06/august_2025/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Divide and Conquer
 |  |
 | ------- |
