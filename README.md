@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/manusri06/august_2025/tree/master/0402-remove-k-digits) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/manusri06/august_2025/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/manusri06/august_2025/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/manusri06/august_2025/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Stack
 |  |
 | ------- |
