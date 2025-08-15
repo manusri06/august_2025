@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/manusri06/august_2025/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/manusri06/august_2025/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/manusri06/august_2025/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/manusri06/august_2025/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/manusri06/august_2025/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/manusri06/august_2025/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/manusri06/august_2025/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/manusri06/august_2025/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/manusri06/august_2025/tree/master/0900-reordered-power-of-2) |
 ## Simulation
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/manusri06/august_2025/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/manusri06/august_2025/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/manusri06/august_2025/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/manusri06/august_2025/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/manusri06/august_2025/tree/master/2529-range-product-queries-of-powers) |
 ## Two Pointers
 |  |
