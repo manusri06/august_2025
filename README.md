@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/manusri06/august_2025/tree/master/0402-remove-k-digits) |
+| [1448-maximum-69-number](https://github.com/manusri06/august_2025/tree/master/1448-maximum-69-number) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/manusri06/august_2025/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/manusri06/august_2025/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manusri06/august_2025/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/manusri06/august_2025/tree/master/0900-reordered-power-of-2) |
+| [1448-maximum-69-number](https://github.com/manusri06/august_2025/tree/master/1448-maximum-69-number) |
 ## Simulation
 |  |
 | ------- |
