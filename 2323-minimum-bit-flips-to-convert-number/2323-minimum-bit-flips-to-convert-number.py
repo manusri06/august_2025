@@ -3,6 +3,7 @@ class Solution(object):
         ans = start ^ goal
         i = 0
         while ans > 0:
-            ans = ans & (ans-1)
-            i += 1
+            if ans & 1:
+                i += 1
+            ans >>= 1
         return i
