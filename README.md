@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/manusri06/august_2025/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/manusri06/august_2025/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/manusri06/august_2025/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/manusri06/august_2025/tree/master/0189-rotate-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/manusri06/august_2025/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/manusri06/august_2025/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/manusri06/august_2025/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/manusri06/august_2025/tree/master/0338-counting-bits) |
