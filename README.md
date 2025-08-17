@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/manusri06/august_2025/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/manusri06/august_2025/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manusri06/august_2025/tree/master/0342-power-of-four) |
+| [0867-new-21-game](https://github.com/manusri06/august_2025/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/manusri06/august_2025/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/manusri06/august_2025/tree/master/1448-maximum-69-number) |
 ## Simulation
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/manusri06/august_2025/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/manusri06/august_2025/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/manusri06/august_2025/tree/master/0338-counting-bits) |
+| [0867-new-21-game](https://github.com/manusri06/august_2025/tree/master/0867-new-21-game) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/manusri06/august_2025/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Divide and Conquer
 |  |
@@ -177,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/manusri06/august_2025/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manusri06/august_2025/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manusri06/august_2025/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/manusri06/august_2025/tree/master/0867-new-21-game) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/manusri06/august_2025/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
