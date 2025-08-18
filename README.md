@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/manusri06/august_2025/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/manusri06/august_2025/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manusri06/august_2025/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/manusri06/august_2025/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/manusri06/august_2025/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/manusri06/august_2025/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/manusri06/august_2025/tree/master/1448-maximum-69-number) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/manusri06/august_2025/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/manusri06/august_2025/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/manusri06/august_2025/tree/master/0238-product-of-array-except-self) |
+| [0679-24-game](https://github.com/manusri06/august_2025/tree/master/0679-24-game) |
 | [0898-transpose-matrix](https://github.com/manusri06/august_2025/tree/master/0898-transpose-matrix) |
 | [2529-range-product-queries-of-powers](https://github.com/manusri06/august_2025/tree/master/2529-range-product-queries-of-powers) |
 ## Backtracking
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/manusri06/august_2025/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/manusri06/august_2025/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/manusri06/august_2025/tree/master/0078-subsets) |
+| [0679-24-game](https://github.com/manusri06/august_2025/tree/master/0679-24-game) |
 ## Bit Manipulation
 |  |
 | ------- |
