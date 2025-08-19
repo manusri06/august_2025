@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/manusri06/august_2025/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/manusri06/august_2025/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/manusri06/august_2025/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/manusri06/august_2025/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Simulation
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/manusri06/august_2025/tree/master/0238-product-of-array-except-self) |
 | [0679-24-game](https://github.com/manusri06/august_2025/tree/master/0679-24-game) |
 | [0898-transpose-matrix](https://github.com/manusri06/august_2025/tree/master/0898-transpose-matrix) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/manusri06/august_2025/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/manusri06/august_2025/tree/master/2529-range-product-queries-of-powers) |
 ## Backtracking
 |  |
