@@ -6,11 +6,11 @@ class Solution:
         dp = [[0]*col for _ in range(row)]
         for i in range(row):
             for j in range(col):
-                if i==0 or j==0:
-                    dp[i][j] = matrix[i][j]
-    
-                else:
-                    if matrix[i][j]:
+                if matrix[i][j]:
+                    if i==0 or j==0:
+                        dp[i][j] = matrix[i][j]
+        
+                    else:
                         dp[i][j] = min(dp[i][j-1] ,dp[i-1][j-1] ,dp[i-1][j])+1
-                s += dp[i][j]
+                    s += dp[i][j]
         return s
