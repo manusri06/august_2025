@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/manusri06/august_2025/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/manusri06/august_2025/tree/master/0238-product-of-array-except-self) |
 | [0679-24-game](https://github.com/manusri06/august_2025/tree/master/0679-24-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/manusri06/august_2025/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0898-transpose-matrix](https://github.com/manusri06/august_2025/tree/master/0898-transpose-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/manusri06/august_2025/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/manusri06/august_2025/tree/master/2432-number-of-zero-filled-subarrays) |
