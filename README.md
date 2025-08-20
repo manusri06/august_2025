@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/manusri06/august_2025/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/manusri06/august_2025/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/manusri06/august_2025/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/manusri06/august_2025/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/manusri06/august_2025/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/manusri06/august_2025/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/manusri06/august_2025/tree/master/0231-power-of-two) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/manusri06/august_2025/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/manusri06/august_2025/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/manusri06/august_2025/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/manusri06/august_2025/tree/master/0089-gray-code) |
 | [0679-24-game](https://github.com/manusri06/august_2025/tree/master/0679-24-game) |
 ## Bit Manipulation
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/manusri06/august_2025/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/manusri06/august_2025/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/manusri06/august_2025/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/manusri06/august_2025/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/manusri06/august_2025/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/manusri06/august_2025/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/manusri06/august_2025/tree/master/0342-power-of-four) |
