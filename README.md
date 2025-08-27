@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/manusri06/august_2025/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/manusri06/august_2025/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/manusri06/august_2025/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/manusri06/august_2025/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/manusri06/august_2025/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/manusri06/august_2025/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/manusri06/august_2025/tree/master/0402-remove-k-digits) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/manusri06/august_2025/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/manusri06/august_2025/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/manusri06/august_2025/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/manusri06/august_2025/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/manusri06/august_2025/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/manusri06/august_2025/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/manusri06/august_2025/tree/master/0342-power-of-four) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manusri06/august_2025/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/manusri06/august_2025/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/manusri06/august_2025/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/manusri06/august_2025/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/manusri06/august_2025/tree/master/0242-valid-anagram) |
@@ -221,10 +224,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/manusri06/august_2025/tree/master/0187-repeated-dna-sequences) |
 | [0867-new-21-game](https://github.com/manusri06/august_2025/tree/master/0867-new-21-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manusri06/august_2025/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/manusri06/august_2025/tree/master/0867-new-21-game) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/manusri06/august_2025/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/manusri06/august_2025/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
