@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manusri06/august_2025/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/manusri06/august_2025/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/manusri06/august_2025/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/manusri06/august_2025/tree/master/0016-3sum-closest) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manusri06/august_2025/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/manusri06/august_2025/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/manusri06/august_2025/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/manusri06/august_2025/tree/master/0205-isomorphic-strings) |
