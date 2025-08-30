@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/manusri06/august_2025/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manusri06/august_2025/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/manusri06/august_2025/tree/master/0679-24-game) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/manusri06/august_2025/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0867-new-21-game](https://github.com/manusri06/august_2025/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/manusri06/august_2025/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/manusri06/august_2025/tree/master/1448-maximum-69-number) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/manusri06/august_2025/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/manusri06/august_2025/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/manusri06/august_2025/tree/master/0342-power-of-four) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/manusri06/august_2025/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/manusri06/august_2025/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/manusri06/august_2025/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2529-range-product-queries-of-powers](https://github.com/manusri06/august_2025/tree/master/2529-range-product-queries-of-powers) |
